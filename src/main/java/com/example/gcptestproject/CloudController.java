@@ -9,7 +9,7 @@ public class CloudController {
     //create a get request method that returns a string
 @GetMapping("/message")
 public String getMessage() {
-    return "Hello and welcome to cloud";
+    return "Hello this is Gazal";
 }
 
 }
