@@ -12,4 +12,6 @@ public String getMessage() {
     return "Hello this is Gazal";
 }
 
+    public static class Pokemon {
+    }
 }
